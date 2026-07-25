@@ -43,6 +43,7 @@ Renewable-Energy-Adoption-Tracker/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+└── output_images
 ```
 
 ---
