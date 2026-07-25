@@ -1,12 +1,77 @@
-# Renewable Energy Adoption Tracker
+# 🌱 Renewable Energy Adoption Tracker
 
-## Overview
+## 📌 Project Overview
 
-A Data Science project that analyzes renewable energy adoption across countries using the IEA dataset. The project includes data analysis, interactive visualizations, forecasting with Prophet, and a CO₂ offset calculator.
+The Renewable Energy Adoption Tracker is a Data Science project that analyzes global renewable energy trends using the OWID Energy Dataset. It provides interactive visualizations, forecasts renewable electricity generation until 2030, and estimates CO₂ emissions avoided through renewable energy adoption.
 
-## Tech Stack
+---
+
+## 🚀 Features
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis
+- Interactive Plotly Visualizations
+- Renewable Electricity Trend Analysis
+- Solar & Wind Energy Trend Analysis
+- Top 10 Renewable Energy Countries
+- Renewable Energy Share Analysis
+- Forecasting until 2030 using Prophet
+- CO₂ Offset Calculator
+- Interactive Dashboard using Dash
+
+---
+
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
 - Plotly
 - Prophet
+- Dash
+- Matplotlib
+
+---
+
+## 📂 Project Structure
+
+```
+Renewable-Energy-Adoption-Tracker/
+│
+├── data/
+├── notebooks/
+├── dashboard.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
+
+---
+
+## 📈 Results
+
+- Renewable electricity has shown consistent growth.
+- Solar and wind energy adoption has accelerated significantly.
+- Forecasts indicate continued growth through 2030.
+- Increasing renewable adoption leads to greater estimated CO₂ reductions.
+
+---
+
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+python dashboard.py
+```
+
+---
+
+## 📷 Dashboard
+
+
+
+---
+
+## 👨‍💻 Author
+
+Om Rajput
+Data Science Intern
